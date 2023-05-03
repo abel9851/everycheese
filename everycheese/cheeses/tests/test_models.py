@@ -15,4 +15,3 @@ def test__str__():
 
     assert cheese.__str__() == "Stracchino"
     assert str(cheese) == "Stracchino"
-
